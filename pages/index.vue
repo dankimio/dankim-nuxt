@@ -4,22 +4,14 @@
       <NuxtLink :to="'/'">
         Dan Kim
       </NuxtLink>
-
-      <NuxtLink :to="'/'">
-        Blog
-      </NuxtLink>
-
-      <NuxtLink :to="'/'">
-        Travel
-      </NuxtLink>
-      <NuxtLink :to="'/'">
+      <NuxtLink :to="'/photos'">
         Travel
       </NuxtLink>
     </nav>
 
     <ul>
       <li v-for="post of posts" :key="post.slug">
-        <NuxtLink :to="`/${post.slug}`">
+        <NuxtLink :to="{ name: 'slug', params: { slug: post.slug } }">
           <h2>{{ post.title }}</h2>
         </NuxtLink>
       </li>
