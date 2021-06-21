@@ -4,16 +4,9 @@ description: 'Empower your NuxtJS application with @nuxt/content module: write i
 cover: https://source.unsplash.com/random/300x200?random=4
 ---
 
-Empower your NuxtJS application with `@nuxtjs/content` module: write in a `content/` directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a **Git-based Headless CMS**.
-
-## Writing content
-
-Learn how to write your `content/`, supporting Markdown, YAML, CSV and JSON: https://content.nuxtjs.org/writing.
-
-## Fetching content
-
-Learn how to fetch your content with `$content`: https://content.nuxtjs.org/fetching.
-
-## Displaying content
-
-Learn how to display your Markdown content with the `<nuxt-content>` component directly in your template: https://content.nuxtjs.org/displaying.
+<img src="https://source.unsplash.com/random/1200x720?random=1" alt="">
+<img src="https://source.unsplash.com/random/1200x720?random=2" alt="">
+<img src="https://source.unsplash.com/random/1200x720?random=3" alt="">
+<img src="https://source.unsplash.com/random/1200x720?random=4" alt="">
+<img src="https://source.unsplash.com/random/1200x720?random=5" alt="">
+<img src="https://source.unsplash.com/random/1200x720?random=6" alt="">
