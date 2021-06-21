@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container max-w-3xl">
     <NuxtLink :to="'/'">
       <h1>Blog</h1>
     </NuxtLink>
