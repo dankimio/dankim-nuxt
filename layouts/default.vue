@@ -1,5 +1,5 @@
 <template>
-  <div class="container py-8">
+  <div>
     <Nuxt />
   </div>
 </template>

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container py-8">
     <nav class="mb-8">
       <NuxtLink :to="'/'">
         Dan Kim
