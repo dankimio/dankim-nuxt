@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container py-8">
     <nav>
       <NuxtLink :to="'/'">
         Dan Kim
@@ -8,6 +8,57 @@
         Travel
       </NuxtLink>
     </nav>
+
+    <div class="grid grid-flow-col grid-cols-4 gap-4">
+      <div class="flex flex-col gap-1">
+        <NuxtLink to="/">
+          <img
+            src="https://source.unsplash.com/random/300x200?random=1"
+            alt="Photo"
+            class="block w-full object-cover"
+          >
+        </NuxtLink>
+        <NuxtLink to="/">
+          London
+        </NuxtLink>
+      </div>
+      <div class="flex flex-col gap-1">
+        <NuxtLink to="/">
+          <img
+            src="https://source.unsplash.com/random/300x200?random=2"
+            alt="Photo"
+            class="block w-full object-cover"
+          >
+        </NuxtLink>
+        <NuxtLink to="/">
+          London
+        </NuxtLink>
+      </div>
+      <div class="flex flex-col gap-1">
+        <NuxtLink to="/">
+          <img
+            src="https://source.unsplash.com/random/300x200?random=3"
+            alt="Photo"
+            class="block w-full object-cover"
+          >
+        </NuxtLink>
+        <NuxtLink to="/">
+          London
+        </NuxtLink>
+      </div>
+      <div class="flex flex-col gap-1">
+        <NuxtLink to="/">
+          <img
+            src="https://source.unsplash.com/random/300x200?random=4"
+            alt="Photo"
+            class="block w-full object-cover"
+          >
+        </NuxtLink>
+        <NuxtLink to="/">
+          London
+        </NuxtLink>
+      </div>
+    </div>
 
     <ul>
       <li v-for="post of posts" :key="post.slug">
