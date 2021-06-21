@@ -3,10 +3,6 @@
     <Nav />
 
     <div class="mx-auto max-w-3xl">
-      <NuxtLink :to="'/'">
-        <h1>Blog</h1>
-      </NuxtLink>
-
       <h1>{{ post.title }}</h1>
       <p>{{ post.description }}</p>
       <nuxt-content :document="post" />

@@ -2,10 +2,6 @@
   <div class="container">
     <Nav />
 
-    <NuxtLink :to="'/'">
-      <h1>Blog</h1>
-    </NuxtLink>
-
     <h1>{{ post.title }}</h1>
 
     <article>
