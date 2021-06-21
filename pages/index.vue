@@ -1,6 +1,6 @@
 <template>
   <div class="container py-8">
-    <nav>
+    <nav class="mb-8">
       <NuxtLink :to="'/'">
         Dan Kim
       </NuxtLink>
@@ -9,7 +9,7 @@
       </NuxtLink>
     </nav>
 
-    <div class="grid grid-flow-col grid-cols-4 gap-4">
+    <div class="grid grid-cols-3 md:grid-cols-4 gap-x-4 gap-y-5 mb-8">
       <div class="flex flex-col gap-1">
         <NuxtLink to="/">
           <img
@@ -59,6 +59,10 @@
         </NuxtLink>
       </div>
     </div>
+
+    <h2 class="mb-4">
+      Posts
+    </h2>
 
     <ul>
       <li v-for="post of posts" :key="post.slug">
