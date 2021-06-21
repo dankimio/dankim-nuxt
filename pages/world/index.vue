@@ -1,9 +1,6 @@
 <template>
   <div class="container">
-    <!-- TOD: Add nav -->
-    <h1 class="mb-8">
-      World
-    </h1>
+    <Nav />
 
     <div class="grid grid-cols-3 md:grid-cols-4 gap-x-4 gap-y-5 mb-8">
       <div

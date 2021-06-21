@@ -1,13 +1,6 @@
 <template>
   <div class="container">
-    <nav class="flex mb-8 text-lg font-medium gap-x-4 text-gray-900">
-      <NuxtLink :to="'/'" class="">
-        Dan Kim
-      </NuxtLink>
-      <NuxtLink :to="{ name: 'world' }">
-        Travel
-      </NuxtLink>
-    </nav>
+    <Nav />
 
     <h2 class="mb-4">
       Posts
