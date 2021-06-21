@@ -1,5 +1,7 @@
 <template>
   <div class="container">
+    <Nav />
+
     <NuxtLink :to="'/'">
       <h1>Blog</h1>
     </NuxtLink>
