@@ -4,61 +4,10 @@
       <NuxtLink :to="'/'" class="">
         Dan Kim
       </NuxtLink>
-      <NuxtLink :to="'/photos'">
+      <NuxtLink :to="{ name: 'world' }">
         Travel
       </NuxtLink>
     </nav>
-
-    <div class="grid grid-cols-3 md:grid-cols-4 gap-x-4 gap-y-5 mb-8">
-      <div class="flex flex-col gap-1">
-        <NuxtLink to="/">
-          <img
-            src="https://source.unsplash.com/random/300x200?random=1"
-            alt="Photo"
-            class="block w-full object-cover"
-          >
-        </NuxtLink>
-        <NuxtLink to="/">
-          London
-        </NuxtLink>
-      </div>
-      <div class="flex flex-col gap-1">
-        <NuxtLink to="/">
-          <img
-            src="https://source.unsplash.com/random/300x200?random=2"
-            alt="Photo"
-            class="block w-full object-cover"
-          >
-        </NuxtLink>
-        <NuxtLink to="/">
-          London
-        </NuxtLink>
-      </div>
-      <div class="flex flex-col gap-1">
-        <NuxtLink to="/">
-          <img
-            src="https://source.unsplash.com/random/300x200?random=3"
-            alt="Photo"
-            class="block w-full object-cover"
-          >
-        </NuxtLink>
-        <NuxtLink to="/">
-          London
-        </NuxtLink>
-      </div>
-      <div class="flex flex-col gap-1">
-        <NuxtLink to="/">
-          <img
-            src="https://source.unsplash.com/random/300x200?random=4"
-            alt="Photo"
-            class="block w-full object-cover"
-          >
-        </NuxtLink>
-        <NuxtLink to="/">
-          London
-        </NuxtLink>
-      </div>
-    </div>
 
     <h2 class="mb-4">
       Posts
