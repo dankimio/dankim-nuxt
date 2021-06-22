@@ -25,7 +25,7 @@ My personal favorites of 2015 are:
 - Me and Earl and the Dying Girl
 - And I am about to watch Inside Out, The Bridge of Spies and other movies.
 
-<p class="img-inline img-inline-sm">
+<p class="grid grid-cols-3 gap-1">
   <img src="/images/year-in-review/youth.jpg" alt="Youth">
   <img src="/images/year-in-review/mad-max-fury-road.jpg" alt="Mad Max: Fury Road">
   <img src="/images/year-in-review/me-and-earl-and-the-dying-girl.jpg" alt="Me and Earl and the Dying Girl">
@@ -41,13 +41,10 @@ The favorite ones of 2015:
 - True Detective – 9/10
 - Rick and Morty – 9/10
 
-<p class="img-inline img-inline-sm">
+<p class="grid grid-cols-3 gap-1">
   <img src="/images/year-in-review/fargo.jpg" alt="">
   <img src="/images/year-in-review/game-of-thrones.jpg" alt="">
   <img src="/images/year-in-review/true-detective.jpg" alt="">
-</p>
-
-<p class="img-inline img-inline-sm">
   <img src="/images/year-in-review/gravity-falls.jpg" alt="">
   <img src="/images/year-in-review/rick-and-morty.jpg" alt="">
 </p>
@@ -76,7 +73,7 @@ Top albums:
 - [Art Angels](https://geo.itunes.apple.com/us/album/art-angels/id1051022913?mt=1&app=music) by Grimes
 - [Magnifique](https://geo.itunes.apple.com/us/album/magnifique/id993145373?mt=1&app=music) by Ratatat
 
-<p class="img-inline img-inline-md">
+<p class="grid grid-cols-3 gap-1">
   <img src="/images/year-in-review/blurryface.jpg" alt="Blurryface">
   <img src="/images/year-in-review/art-angels.jpg" alt="Art Angels">
   <img src="/images/year-in-review/magnifique.jpg" alt="Magnifique">
@@ -90,7 +87,7 @@ I also picked up a ukulele this year—heavily inspired by twenty one pilots. So
 - [Under the Radar](https://www.relay.fm/radar). I stopped listening to Accidental Tech Podcast because the episodes were too long (up to 2 hours), very few development related topics and I just didn't have time to listen. I was already listening to Developer Perspective by David Smith: I really liked the format of short 15-minute episodes. And then Under the Radar comes out: just 30 minutes of developer-related talks from David Smith and Marco Arment. Perfect.
 - If I could recommend just one episode it would be The Developer on Fire episode – [The Pareto Principle and Stoic Philosophy with David Heinemeier Hansson](http://developeronfire.com/Podcast/Episodes/david-heinemeier-hansson-the-pareto-principle-and-stoic-philosophy).
 
-<p class="img-inline img-inline-lg">
+<p class="grid grid-cols-2 gap-1">
   <img src="/images/year-in-review/cortex.jpg" alt="Cortex">
   <img src="/images/year-in-review/under-the-radar.jpg" alt="Under the Radar">
 </p>

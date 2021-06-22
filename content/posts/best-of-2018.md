@@ -8,15 +8,13 @@ At the beginning of 2016 I set a goal to read 50 books. I read 40 books that yea
 
 So in 2018 it sounded like a good idea to read one book a month. Guess what. I’ve read only a couple of books this year. Conclusion — your goals affect your productivity. The greater the goal, the more effort you make.
 
-<div class="img-inline img-inline-md">
-  <img src="/images/best-of-2018/shoe-dog.jpg" alt="Shoe Dog">
-</div>
+<img src="/images/best-of-2018/shoe-dog.jpg" alt="Shoe Dog" class="block w-48 mx-auto">
 
 ["Shoe Dog" by Phil Knight](https://www.goodreads.com/book/show/27220736-shoe-dog) — 5/5.
 
 ## Films
 
-<div class="img-inline img-inline-sm">
+<div class="grid grid-cols-4 gap-1">
   <img src="/images/best-of-2018/lady-bird.jpg" alt="‎Lady Bird">
   <img src="/images/best-of-2018/the-florida-project.jpg" alt="‎The Florida Project">
   <img src="/images/best-of-2018/three-billboards-outside-ebbing-missouri.jpg" alt="‎‎Three Billboards Outside Ebbing, Missouri">
@@ -34,7 +32,7 @@ So in 2018 it sounded like a good idea to read one book a month. Guess what. I�
 
 This was the year when I finally watched "Friends".
 
-<div class="img-inline img-inline-sm">
+<div class="grid grid-cols-4 gap-1">
   <img src="/images/best-of-2018/the-end-of-the-fucking-world.jpg" alt="The End of the F***ing World">
   <img src="/images/best-of-2018/alias-grace.jpg" alt="Alias Grace">
   <img src="/images/best-of-2018/taboo.jpg" alt="Taboo">
@@ -49,7 +47,7 @@ This was the year when I finally watched "Friends".
 
 ## Podcasts
 
-<div class="img-inline img-inline-sm">
+<div class="grid grid-cols-2 md:grid-cols-4 gap-1 md:gap-2">
   <img src="/images/best-of-2018/cortex.jpg" alt="">
   <img src="/images/best-of-2018/hello-internet.jpg" alt="">
   <img src="/images/best-of-2018/hardcore-history.jpg" alt="">

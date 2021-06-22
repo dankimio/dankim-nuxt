@@ -16,6 +16,6 @@ Handy shortcuts and tricks for Terminal.app to save your time.
 
 Modifier keys: Ctrl ⌃, Command ⌘.
 
-![Terminal profiles](/images/2014/terminal-shortcuts/terminal-option-key.png)
+![Terminal profiles](/images/terminal-shortcuts/terminal-option-key.png)
 
 Enable `Use Option as Meta key` to use Option key to navigate through words as if you were using a native text input.

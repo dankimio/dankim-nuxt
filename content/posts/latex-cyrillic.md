@@ -8,7 +8,7 @@ If you want to install TeX on your Mac you can do it either by downloading a ful
 
 To view all installed collections use the following command: `$ tlmgr info collections`.
 
-![LaTeX collections](/images/2014/latex-cyrillic/latex-collections.png)
+![LaTeX collections](/images/latex-cyrillic/latex-collections.png)
 
 Two collections are recommended for cyrillic documents: `collection-fontsrecommended` (collection of widely used fonts) and `collection-langcyrillic` for cyrillic typesetting.
 
