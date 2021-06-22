@@ -2,13 +2,11 @@
   <div class="container">
     <Nav />
 
-    <ul>
-      <li v-for="post of posts" :key="post.slug">
-        <NuxtLink :to="{ name: 'slug', params: { slug: post.slug } }">
-          <h2>{{ post.title }}</h2>
-        </NuxtLink>
-      </li>
-    </ul>
+    <div v-for="post of posts" :key="post.slug">
+      <NuxtLink :to="{ name: 'slug', params: { slug: post.slug } }">
+        <a>{{ post.title }}</a>
+      </NuxtLink>
+    </div>
   </div>
 </template>
 
