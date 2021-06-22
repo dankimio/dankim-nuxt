@@ -10,7 +10,7 @@ LaTeX is complicated. Over a thousand packages and millions of ways of doing the
 
 ### The basics
 
-- [Enabling cyrillic fonts in LaTeX](/cyrillic-fonts-in-latex/)
+- [Enabling cyrillic fonts in LaTeX](/latex-cyrillic)
 - A4, two side layout: `\documentclass[12pt,a4paper,twoside]{article}`
 - Page margins: `\usepackage[top=1in,left=0.85in,right=0.85in]{geometry}`
 - Easy way to write LaTeX (preserving case): `\LaTeX`
