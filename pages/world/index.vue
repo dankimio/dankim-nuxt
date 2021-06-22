@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container px-4 md:px-8">
     <Nav />
 
     <div class="grid grid-cols-3 md:grid-cols-4 gap-x-4 gap-y-5 mb-8">

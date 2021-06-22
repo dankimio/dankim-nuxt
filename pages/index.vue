@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container px-4 md:px-8">
     <Nav />
 
     <div v-for="post of posts" :key="post.slug" class="mb-8">

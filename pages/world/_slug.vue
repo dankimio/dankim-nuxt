@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container px-4 md:px-8">
     <Nav />
 
     <h1>{{ post.title }}</h1>
