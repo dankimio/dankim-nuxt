@@ -4,7 +4,7 @@
 
     <div class="mx-auto max-w-3xl">
       <h1>{{ post.title }}</h1>
-      <p>{{ post.description }}</p>
+
       <nuxt-content :document="post" />
     </div>
   </div>
