@@ -2,11 +2,11 @@
   <div class="container px-4 md:px-8">
     <Nav />
 
-    <h1>{{ post.title }}</h1>
+    <div class="prose md:prose-lg mb-8">
+      <h1>{{ post.title }}</h1>
+    </div>
 
-    <article>
-      <nuxt-content :document="post" />
-    </article>
+    <nuxt-content :document="post" />
   </div>
 </template>
 

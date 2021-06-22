@@ -10,13 +10,13 @@
       >
         <NuxtLink :to="{ name: 'world-slug', params: { slug: post.slug } }">
           <img
-            src="https://source.unsplash.com/random/300x200?random=1"
-            alt="Photo"
+            :src="post.cover"
+            :alt="post.title"
             class="block w-full object-cover"
           >
         </NuxtLink>
         <NuxtLink :to="{ name: 'world-slug', params: { slug: post.slug } }">
-          London
+          {{ post.title }}
         </NuxtLink>
       </div>
     </div>
@@ -27,7 +27,7 @@
 export default {
   async asyncData ({ $content }) {
     const posts = await $content('world')
-      .only(['title', 'slug'])
+      .only(['title', 'cover', 'slug'])
       .sortBy('createdAt', 'desc')
       .fetch()
 
