@@ -6,6 +6,8 @@ createdAt: 2016-01-01
 
 The year of procrastination: projects, traveling, getting in shape, reading books and watching movies. I'm going to update this post at least once a month throughout the year.
 
+<!--more-->
+
 - Launch 2/3 MVPs
 - <del>Contribute more to open source projects—at least _100_/100 commits</del>
 - <del>Learn the basics of vim</del>

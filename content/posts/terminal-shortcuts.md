@@ -6,6 +6,8 @@ createdAt: 2014-08-10
 
 Handy shortcuts and tricks for Terminal.app to save your time.
 
+<!--more-->
+
 - ⌃ + C: Clear line or quit running process (script, server)
 - ⌃ + D: Kill the current process
 - ⌃ + A: Go to the beginning of line

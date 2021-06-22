@@ -6,6 +6,8 @@ createdAt: 2015-12-31
 
 The year of productivity: software development, traveling, photography. 2015 was the busiest year so far. In this post, I list my favorite movies, TV shows, podcasts and articles of the year.
 
+<!--more-->
+
 ## Code
 
 - A lot of Ruby on Rails development

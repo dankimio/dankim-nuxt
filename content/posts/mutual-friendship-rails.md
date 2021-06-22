@@ -6,6 +6,8 @@ createdAt: 2015-04-19
 
 If you go to StackOverflow, you'll find hundreds of implementations for friendships. It's easy to create a Twitter subscription model with a clear distinction between following and followers. Mutual friendship, on the other hand, requires more code.
 
+<!--more-->
+
 In this case friends are added only after user's approval:
 
 1. `Foo` sends a friend request to `Bar`.

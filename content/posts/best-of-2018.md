@@ -6,6 +6,8 @@ createdAt: 2019-01-06
 
 At the beginning of 2016 I set a goal to read 50 books. I read 40 books that year. “50 sounds like a lot”, I said to myself, and the next year the goal was to read 30 books. By the end of 2017 it was 20 books. After that, I thought that my life has become busier and I don’t have as much time to spend on books.
 
+<!--more-->
+
 So in 2018 it sounded like a good idea to read one book a month. Guess what. I’ve read only a couple of books this year. Conclusion — your goals affect your productivity. The greater the goal, the more effort you make.
 
 <img src="/images/best-of-2018/shoe-dog.jpg" alt="Shoe Dog" class="block w-48 mx-auto">

@@ -6,6 +6,8 @@ createdAt: 2014-07-08
 
 If you want to install TeX on your Mac you can do it either by downloading a full TeX Live distribution (2.4 Gb) or by getting BasicTeX (95 Mb), which is 24 times smaller. BasicTeX is a subset of TeX Live and supports standard TeX typesetting functions. Cyrillic fonts aren't included, but it's easy to install them.
 
+<!--more-->
+
 To view all installed collections use the following command: `$ tlmgr info collections`.
 
 ![LaTeX collections](/images/latex-cyrillic/latex-collections.png)

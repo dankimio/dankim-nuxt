@@ -6,6 +6,8 @@ createdAt: 2014-07-15
 
 LaTeX is complicated. Over a thousand packages and millions of ways of doing the same thing. I encountered a lot of problems while writing reports in LaTeX. I wrote this cheatsheet for myself to make my life a bit easier.
 
+<!--more-->
+
 ### The basics
 
 - [Enabling cyrillic fonts in LaTeX](/cyrillic-fonts-in-latex/)
