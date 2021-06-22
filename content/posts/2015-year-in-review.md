@@ -12,7 +12,7 @@ The year of productivity: software development, traveling, photography. 2015 was
 - Web and iOS side projects, that I hope will be finished in 2016
 - 1700 commits on GitHub. If all my projects were open-source, I would be in [top 200](http://git.io/top) of most active GitHub users.
 
-![1600 commits](/images/2015/year-in-review/a-year-of-contributions.png)
+![1600 commits](/images/year-in-review/a-year-of-contributions.png)
 
 ## Movies
 
@@ -26,9 +26,9 @@ My personal favorites of 2015 are:
 - And I am about to watch Inside Out, The Bridge of Spies and other movies.
 
 <p class="img-inline img-inline-sm">
-  <img src="/images/2015/year-in-review/youth.jpg" alt="Youth">
-  <img src="/images/2015/year-in-review/mad-max-fury-road.jpg" alt="Mad Max: Fury Road">
-  <img src="/images/2015/year-in-review/me-and-earl-and-the-dying-girl.jpg" alt="Me and Earl and the Dying Girl">
+  <img src="/images/year-in-review/youth.jpg" alt="Youth">
+  <img src="/images/year-in-review/mad-max-fury-road.jpg" alt="Mad Max: Fury Road">
+  <img src="/images/year-in-review/me-and-earl-and-the-dying-girl.jpg" alt="Me and Earl and the Dying Girl">
 </p>
 
 ## TV Shows
@@ -42,14 +42,14 @@ The favorite ones of 2015:
 - Rick and Morty – 9/10
 
 <p class="img-inline img-inline-sm">
-  <img src="/images/2015/year-in-review/fargo.jpg" alt="">
-  <img src="/images/2015/year-in-review/game-of-thrones.jpg" alt="">
-  <img src="/images/2015/year-in-review/true-detective.jpg" alt="">
+  <img src="/images/year-in-review/fargo.jpg" alt="">
+  <img src="/images/year-in-review/game-of-thrones.jpg" alt="">
+  <img src="/images/year-in-review/true-detective.jpg" alt="">
 </p>
 
 <p class="img-inline img-inline-sm">
-  <img src="/images/2015/year-in-review/gravity-falls.jpg" alt="">
-  <img src="/images/2015/year-in-review/rick-and-morty.jpg" alt="">
+  <img src="/images/year-in-review/gravity-falls.jpg" alt="">
+  <img src="/images/year-in-review/rick-and-morty.jpg" alt="">
 </p>
 
 ## Books
@@ -77,9 +77,9 @@ Top albums:
 - [Magnifique](https://geo.itunes.apple.com/us/album/magnifique/id993145373?mt=1&app=music) by Ratatat
 
 <p class="img-inline img-inline-md">
-  <img src="/images/2015/year-in-review/blurryface.jpg" alt="Blurryface">
-  <img src="/images/2015/year-in-review/art-angels.jpg" alt="Art Angels">
-  <img src="/images/2015/year-in-review/magnifique.jpg" alt="Magnifique">
+  <img src="/images/year-in-review/blurryface.jpg" alt="Blurryface">
+  <img src="/images/year-in-review/art-angels.jpg" alt="Art Angels">
+  <img src="/images/year-in-review/magnifique.jpg" alt="Magnifique">
 </p>
 
 I also picked up a ukulele this year—heavily inspired by twenty one pilots. So maybe I'll record a few covers the next year.
@@ -91,8 +91,8 @@ I also picked up a ukulele this year—heavily inspired by twenty one pilots. So
 - If I could recommend just one episode it would be The Developer on Fire episode – [The Pareto Principle and Stoic Philosophy with David Heinemeier Hansson](http://developeronfire.com/Podcast/Episodes/david-heinemeier-hansson-the-pareto-principle-and-stoic-philosophy).
 
 <p class="img-inline img-inline-lg">
-  <img src="/images/2015/year-in-review/cortex.jpg" alt="Cortex">
-  <img src="/images/2015/year-in-review/under-the-radar.jpg" alt="Under the Radar">
+  <img src="/images/year-in-review/cortex.jpg" alt="Cortex">
+  <img src="/images/year-in-review/under-the-radar.jpg" alt="Under the Radar">
 </p>
 
 ## Articles

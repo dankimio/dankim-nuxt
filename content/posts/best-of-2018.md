@@ -9,7 +9,7 @@ At the beginning of 2016 I set a goal to read 50 books. I read 40 books that yea
 So in 2018 it sounded like a good idea to read one book a month. Guess what. I’ve read only a couple of books this year. Conclusion — your goals affect your productivity. The greater the goal, the more effort you make.
 
 <div class="img-inline img-inline-md">
-  <img src="/images/2018/best-of-2018/shoe-dog.jpg" alt="Shoe Dog">
+  <img src="/images/best-of-2018/shoe-dog.jpg" alt="Shoe Dog">
 </div>
 
 ["Shoe Dog" by Phil Knight](https://www.goodreads.com/book/show/27220736-shoe-dog) — 5/5.
@@ -17,10 +17,10 @@ So in 2018 it sounded like a good idea to read one book a month. Guess what. I�
 ## Films
 
 <div class="img-inline img-inline-sm">
-  <img src="/images/2018/best-of-2018/lady-bird.jpg" alt="‎Lady Bird">
-  <img src="/images/2018/best-of-2018/the-florida-project.jpg" alt="‎The Florida Project">
-  <img src="/images/2018/best-of-2018/three-billboards-outside-ebbing-missouri.jpg" alt="‎‎Three Billboards Outside Ebbing, Missouri">
-  <img src="/images/2018/best-of-2018/spider-man.jpg" alt="Spider-Man: Into the Spider-Verse">
+  <img src="/images/best-of-2018/lady-bird.jpg" alt="‎Lady Bird">
+  <img src="/images/best-of-2018/the-florida-project.jpg" alt="‎The Florida Project">
+  <img src="/images/best-of-2018/three-billboards-outside-ebbing-missouri.jpg" alt="‎‎Three Billboards Outside Ebbing, Missouri">
+  <img src="/images/best-of-2018/spider-man.jpg" alt="Spider-Man: Into the Spider-Verse">
 </div>
 
 - "‎Lady Bird". Funny, heartbreaking and beautiful. — 9/10
@@ -35,10 +35,10 @@ So in 2018 it sounded like a good idea to read one book a month. Guess what. I�
 This was the year when I finally watched "Friends".
 
 <div class="img-inline img-inline-sm">
-  <img src="/images/2018/best-of-2018/the-end-of-the-fucking-world.jpg" alt="The End of the F***ing World">
-  <img src="/images/2018/best-of-2018/alias-grace.jpg" alt="Alias Grace">
-  <img src="/images/2018/best-of-2018/taboo.jpg" alt="Taboo">
-  <img src="/images/2018/best-of-2018/neo-yokio.jpg" alt="Neo Yokio">
+  <img src="/images/best-of-2018/the-end-of-the-fucking-world.jpg" alt="The End of the F***ing World">
+  <img src="/images/best-of-2018/alias-grace.jpg" alt="Alias Grace">
+  <img src="/images/best-of-2018/taboo.jpg" alt="Taboo">
+  <img src="/images/best-of-2018/neo-yokio.jpg" alt="Neo Yokio">
 </div>
 
 - "The End of the F***ing World" — 9/10
@@ -50,10 +50,10 @@ This was the year when I finally watched "Friends".
 ## Podcasts
 
 <div class="img-inline img-inline-sm">
-  <img src="/images/2018/best-of-2018/cortex.jpg" alt="">
-  <img src="/images/2018/best-of-2018/hello-internet.jpg" alt="">
-  <img src="/images/2018/best-of-2018/hardcore-history.jpg" alt="">
-  <img src="/images/2018/best-of-2018/the-tim-ferriss-show.jpg" alt="">
+  <img src="/images/best-of-2018/cortex.jpg" alt="">
+  <img src="/images/best-of-2018/hello-internet.jpg" alt="">
+  <img src="/images/best-of-2018/hardcore-history.jpg" alt="">
+  <img src="/images/best-of-2018/the-tim-ferriss-show.jpg" alt="">
 </div>
 
 - "Cortex":

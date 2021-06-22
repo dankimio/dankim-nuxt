@@ -123,7 +123,7 @@ devise_for :admins, path: 'admin', skip: :registrations
 
 Admin area will be namespaced in URLs: `/admin/sign_in`, `/admin/posts`. This is how our sign in page looks like:
 
-![Admin sign in page](/images/2015/rails-admin-dashboard-devise-bootstrap/admin-sign-in.png)
+![Admin sign in page](/images/rails-admin-dashboard-devise-bootstrap/admin-sign-in.png)
 
 ### Admin resources
 
@@ -195,7 +195,7 @@ At this moment all admin views will look the same as previously generated ones. 
 $ rails server
 ```
 
-![List of posts](/images/2015/rails-admin-dashboard-devise-bootstrap/list-of-posts.png)
+![List of posts](/images/rails-admin-dashboard-devise-bootstrap/list-of-posts.png)
 
 ## Authentication
 
@@ -221,13 +221,13 @@ end
 
 Now all actions in admin controllers will require authentication. `authenticate_admin!` is a Devise method, that will check if the current user is logged in and redirect to sign in page otherwise.
 
-![Sign in page](/images/2015/rails-admin-dashboard-devise-bootstrap/admin-sign-in-1.png)
+![Sign in page](/images/rails-admin-dashboard-devise-bootstrap/admin-sign-in-1.png)
 
 ## Views
 
 New post form looks like this:
 
-![New post form](/images/2015/rails-admin-dashboard-devise-bootstrap/new-post.png)
+![New post form](/images/rails-admin-dashboard-devise-bootstrap/new-post.png)
 
 We'll add fields to our form and make sure they look good with Bootstrap.
 
@@ -270,7 +270,7 @@ Now let's import Bootstrap in JavaScript, it should be imported after jQuery:
 
 We can verify that everything was installed correctly by visiting our admin posts page again. To see the changes we need to restart the web server.
 
-![Admin sign in page with Bootstrap](/images/2015/rails-admin-dashboard-devise-bootstrap/admin-sign-in-bootstrap.png)
+![Admin sign in page with Bootstrap](/images/rails-admin-dashboard-devise-bootstrap/admin-sign-in-bootstrap.png)
 
 Let's create the first admin to seeds, so that it exists after we set up the database:
 
@@ -287,7 +287,7 @@ $ rake db:seed
 
 We can now log in to the admin area with this admin account:
 
-![Signed in successfully](/images/2015/rails-admin-dashboard-devise-bootstrap/admin-signed-in.png)
+![Signed in successfully](/images/rails-admin-dashboard-devise-bootstrap/admin-signed-in.png)
 
 We want to keep our admin and application layouts separated. Admin dashboard will have its own design and will not be related to the main layout. We will create a layout file and tell `AdminController` to use the new layout.
 
@@ -401,7 +401,7 @@ end
 
 This is how admin area looks at the moment:
 
-![Admin dashboard with Bootstrap](/images/2015/rails-admin-dashboard-devise-bootstrap/listing-admin-posts.png)
+![Admin dashboard with Bootstrap](/images/rails-admin-dashboard-devise-bootstrap/listing-admin-posts.png)
 
 ### Bootstrap for Devise views
 
@@ -427,7 +427,7 @@ Then we need to import devise views styles. At the very bottom of `application.s
 
 That's it! This is how the sign in form looks like now:
 
-![Sign in form with Bootstrap views](/images/2015/rails-admin-dashboard-devise-bootstrap/sign-in-form.png)
+![Sign in form with Bootstrap views](/images/rails-admin-dashboard-devise-bootstrap/sign-in-form.png)
 
 ### Customizing index
 
@@ -468,7 +468,7 @@ First, we need to remove `<%= notice %>` code from all index pages, because it i
 ```
 
 The new index page:
-![The new index page](/images/2015/rails-admin-dashboard-devise-bootstrap/new-index.png)
+![The new index page](/images/rails-admin-dashboard-devise-bootstrap/new-index.png)
 
 Next, we'll update the form. Notice that the argument for `form_for` method is an array, `:admin` specifies the namespace of the controller that will receive the form data.
 
@@ -539,7 +539,7 @@ Now let's update and clean up `new.html.erb`, `edit.html.erb` and `show.html.erb
 </div>
 ```
 
-![The new show page](/images/2015/rails-admin-dashboard-devise-bootstrap/new-show.png)
+![The new show page](/images/rails-admin-dashboard-devise-bootstrap/new-show.png)
 
 The steps for categories resource are the same. Dashboard looks much better now.
 
@@ -596,7 +596,7 @@ $ rails g kaminari:views bootstrap3
 
 Pagination now has Bootstrap styles applied:
 
-![Pagination with Bootstrap](/images/2015/rails-admin-dashboard-devise-bootstrap/bootstrap-pagination.png)
+![Pagination with Bootstrap](/images/rails-admin-dashboard-devise-bootstrap/bootstrap-pagination.png)
 
 ## Future development
 
