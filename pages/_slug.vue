@@ -2,12 +2,12 @@
   <div class="container">
     <Nav />
 
-    <div class="mx-auto max-w-3xl">
-      <h1 class="text-3xl font-bold mb-8">
+    <div class="prose mx-auto">
+      <h1>
         {{ post.title }}
       </h1>
 
-      <nuxt-content :document="post" class="prose" />
+      <nuxt-content :document="post" />
     </div>
   </div>
 </template>
@@ -23,3 +23,12 @@ export default {
   }
 }
 </script>
+
+<style>
+.prose img {
+  @apply rounded;
+
+  margin-top: 0;
+  margin-bottom: 0;
+}
+</style>
