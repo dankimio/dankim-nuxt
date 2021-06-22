@@ -3,9 +3,11 @@
     <Nav />
 
     <div class="mx-auto max-w-3xl">
-      <h1>{{ post.title }}</h1>
+      <h1 class="text-3xl font-bold mb-8">
+        {{ post.title }}
+      </h1>
 
-      <nuxt-content :document="post" />
+      <nuxt-content :document="post" class="prose" />
     </div>
   </div>
 </template>
