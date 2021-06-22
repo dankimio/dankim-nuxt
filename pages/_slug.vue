@@ -2,7 +2,7 @@
   <div class="container">
     <Nav />
 
-    <div class="prose mx-auto">
+    <div class="prose md:prose-lg mx-auto">
       <h1>
         {{ post.title }}
       </h1>
