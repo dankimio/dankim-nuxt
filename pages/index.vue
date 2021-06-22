@@ -2,10 +2,6 @@
   <div class="container">
     <Nav />
 
-    <h2 class="mb-4">
-      Posts
-    </h2>
-
     <ul>
       <li v-for="post of posts" :key="post.slug">
         <NuxtLink :to="{ name: 'slug', params: { slug: post.slug } }">
