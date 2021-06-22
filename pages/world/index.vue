@@ -2,7 +2,7 @@
   <div class="container px-4 md:px-8">
     <Nav />
 
-    <div class="grid grid-cols-3 md:grid-cols-4 gap-x-4 gap-y-5 mb-8">
+    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-4 gap-y-5 mb-8">
       <div
         v-for="post of posts"
         :key="post.slug"
