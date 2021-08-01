@@ -12,7 +12,7 @@
           <img
             :src="post.cover"
             :alt="post.title"
-            class="block w-full object-cover"
+            class="block w-full object-cover lazyload"
           >
         </NuxtLink>
         <NuxtLink :to="{ name: 'world-slug', params: { slug: post.slug } }">
