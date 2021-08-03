@@ -2,7 +2,7 @@
   <div class="container px-4 md:px-8">
     <Nav />
 
-    <div class="prose md:prose-lg mx-auto">
+    <div class="prose md:prose-lg">
       <h1>
         {{ post.title }}
       </h1>
