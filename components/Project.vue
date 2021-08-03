@@ -10,7 +10,8 @@
       >
         {{ name }}
 
-        <!-- <img src="/images/icon-arrow.svg" class="inline-block ml-2 w-3 h-3" alt="Arrow"> -->
+        <!-- FIXME: https://github.com/nuxt/vite/issues/109#issuecomment-804175411 -->
+        <img :src="'/images/icon-arrow.svg'" class="inline-block ml-2 w-3 h-3" alt="Arrow">
       </a>
       <p class="text-sm md:text-base text-gray-700">
         {{ description }}
