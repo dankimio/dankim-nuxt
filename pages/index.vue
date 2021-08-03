@@ -18,15 +18,16 @@
 
 <script>
 export default {
-  async asyncData ({ $content }) {
-    const posts = await $content('posts')
+  data () {
+    return {
+      posts: []
+    }
+  },
+  async fetch () {
+    this.posts = await this.$content('posts')
       .only(['title', 'description', 'slug'])
       .sortBy('createdAt', 'desc')
       .fetch()
-
-    return {
-      posts
-    }
   }
 }
 </script>

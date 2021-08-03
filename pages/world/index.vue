@@ -25,15 +25,16 @@
 
 <script>
 export default {
-  async asyncData ({ $content }) {
-    const posts = await $content('world')
+  data () {
+    return {
+      posts: []
+    }
+  },
+  async fetch () {
+    this.posts = await this.$content('world')
       .only(['title', 'cover', 'slug'])
       .sortBy('createdAt', 'desc')
       .fetch()
-
-    return {
-      posts
-    }
   }
 }
 </script>
