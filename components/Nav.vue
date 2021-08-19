@@ -7,7 +7,7 @@
       Blog
     </NuxtLink>
     <NuxtLink :to="{ name: 'world' }" class="text-gray-800">
-      Travel
+      World
     </NuxtLink>
   </nav>
 </template>
