@@ -1,5 +1,5 @@
 ---
-title: Rotterdam & The Hague, 2015
+title: Rotterdam, 2015
 cover: https://s3.eu-west-1.amazonaws.com/dankim.io/photos/2015-rotterdam/cover.jpg
 ---
 
