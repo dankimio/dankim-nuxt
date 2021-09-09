@@ -1,6 +1,7 @@
 ---
 title: Amsterdam, 2015
 cover: https://s3.eu-west-1.amazonaws.com/dankim.io/photos/2015-amsterdam/cover.jpg
+createdAt: 2015-08-18
 ---
 
 <img src="https://s3.eu-west-1.amazonaws.com/dankim.io/photos/2015-amsterdam/0001.jpg" alt="" class="lazyload">

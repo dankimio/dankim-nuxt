@@ -1,6 +1,7 @@
 ---
 title: Korea, 2019
 cover: https://s3.eu-west-1.amazonaws.com/dankim.io/photos/2019-korea/cover.jpg
+createdAt: 2019-02
 ---
 
 <img src="https://s3.eu-west-1.amazonaws.com/dankim.io/photos/2019-korea/0001.jpg" alt="" class="lazyload">

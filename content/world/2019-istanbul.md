@@ -1,6 +1,7 @@
 ---
 title: Istanbul, 2019
 cover: https://s3.eu-west-1.amazonaws.com/dankim.io/photos/2019-istanbul/cover.jpg
+createdAt: 2019-01
 ---
 
 <img src="https://s3.eu-west-1.amazonaws.com/dankim.io/photos/2019-istanbul/0001.jpg" alt="" class="lazyload">

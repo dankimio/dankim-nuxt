@@ -1,6 +1,7 @@
 ---
 title: The Baltics, 2016
 cover: https://s3.eu-west-1.amazonaws.com/dankim.io/photos/2016-baltics/cover.jpg
+createdAt: 2016-02-03
 ---
 
 <img src="https://s3.eu-west-1.amazonaws.com/dankim.io/photos/2016-baltics/0001.jpg" alt="" class="lazyload">

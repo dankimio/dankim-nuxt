@@ -1,6 +1,7 @@
 ---
 title: London, 2016
 cover: https://s3.eu-west-1.amazonaws.com/dankim.io/photos/2016-london/cover.jpg
+createdAt: 2016-12
 ---
 
 <img src="https://s3.eu-west-1.amazonaws.com/dankim.io/photos/2016-london/0001.jpg" alt="" class="lazyload">

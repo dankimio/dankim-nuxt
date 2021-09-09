@@ -1,6 +1,7 @@
 ---
 title: Korea, 2016
 cover: https://s3.eu-west-1.amazonaws.com/dankim.io/photos/2016-korea/cover.jpg
+createdAt: 2016-08
 ---
 
 <img src="https://s3.eu-west-1.amazonaws.com/dankim.io/photos/2016-korea/0001.jpg" alt="" class="lazyload">

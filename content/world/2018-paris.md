@@ -1,6 +1,7 @@
 ---
 title: Paris, 2018
 cover: https://s3.eu-west-1.amazonaws.com/dankim.io/photos/2018-paris/cover.jpg
+createdAt: 2018-11
 ---
 
 <img src="https://s3.eu-west-1.amazonaws.com/dankim.io/photos/2018-paris/0001.jpg" alt="" class="lazyload">

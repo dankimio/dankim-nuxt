@@ -1,6 +1,7 @@
 ---
 title: Stockholm, 2017
 cover: https://s3.eu-west-1.amazonaws.com/dankim.io/photos/2017-stockholm/cover.jpg
+createdAt: 2017-07
 ---
 
 <img src="https://s3.eu-west-1.amazonaws.com/dankim.io/photos/2017-stockholm/0001.jpg" alt="" class="lazyload">
