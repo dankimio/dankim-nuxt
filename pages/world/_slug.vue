@@ -31,4 +31,18 @@ export default {
   display: block;
   width: 100%;
 }
+
+.photorow {
+  display: grid;
+
+  @apply gap-4;
+}
+
+.photorow-2 {
+  @apply photorow md:grid-cols-2;
+}
+
+.photorow-3 {
+  @apply photorow md:grid-cols-3;
+}
 </style>
