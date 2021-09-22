@@ -16,7 +16,7 @@
       class="mr-3 mb-3 sm:mb-1 md:mr-4"
     >
       <!-- FIXME: https://github.com/nuxt/vite/issues/109#issuecomment-804175411 -->
-      <img :src="'/images/icon-instagram.svg'" alt="" class="mr-2 h-4 w-4">
+      <img :src="'/images/icon-instagram.svg'" class="mr-2 h-4 w-4">
       dankimio
     </OutlinedButton>
 
@@ -26,7 +26,7 @@
       class="mr-3 mb-3 sm:mb-1 md:mr-4"
     >
       <!-- FIXME: https://github.com/nuxt/vite/issues/109#issuecomment-804175411 -->
-      <img :src="'/images/icon-twitter.svg'" alt="" class="mr-2 h-4 w-4">
+      <img :src="'/images/icon-twitter.svg'" class="mr-2 h-4 w-4">
       dankimio
     </OutlinedButton>
 
@@ -36,7 +36,7 @@
       class="mr-3 mb-3 sm:mb-1 md:mr-4"
     >
       <!-- FIXME: https://github.com/nuxt/vite/issues/109#issuecomment-804175411 -->
-      <img :src="'/images/icon-github.svg'" alt="" class="mr-2 h-4 w-4">
+      <img :src="'/images/icon-github.svg'" class="mr-2 h-4 w-4">
       dankimio
     </OutlinedButton>
   </div>
