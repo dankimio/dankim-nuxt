@@ -101,7 +101,7 @@
         <p>Higher School of Economics</p>
       </div>
 
-      <h2>Projects</h2>
+      <!-- <h2>Projects</h2>
 
       <div class="mb-4">
         <h3 class="text-lg font-medium">
@@ -110,15 +110,13 @@
         <p>
           I'm trying to reimagine spaced repetition with Spacecards. A web app, that is currently a work in progress.
         </p>
-      </div>
+      </div> -->
 
       <h2>
         Languages
       </h2>
 
-      <p>English — C2</p>
-      <p>Russian — Native</p>
-      <p>French — A2</p>
+      <p>English <span class="text-gray-500">(fluent)</span>, Russian <span class="text-gray-500">(fluent)</span>, French <span class="text-gray-500">(A2)</span>.</p>
     </div>
   </div>
 </template>
@@ -136,6 +134,6 @@ h1, h2, p {
 }
 
 h2 {
-  @apply text-3xl font-medium;
+  @apply text-3xl font-medium mt-4;
 }
 </style>
