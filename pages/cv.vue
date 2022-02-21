@@ -92,15 +92,13 @@
       </h2>
 
       <div>
-        <h3>
+        <h3 class="text-lg font-medium">
           Software Engineering, Bachelor
 
           <span class="years">2013–2017</span>
         </h3>
 
         <p>Higher School of Economics</p>
-
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi a explicabo repellat rerum, architecto temporibus facere optio, consequuntur.</p>
       </div>
 
       <h2>Projects</h2>
