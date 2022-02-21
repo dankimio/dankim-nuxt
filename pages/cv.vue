@@ -7,8 +7,8 @@
         Dan Kim — CV
       </h1>
 
-      <p>
-        I write software and help make software with product in mind.
+      <p class="mb-4">
+        I write software and help others make software with product in mind.
       </p>
 
       <div class="border mr-2 px-2 py-1 text-sm inline-flex items-center">
@@ -41,7 +41,7 @@
 
       <div class="mb-5">
         <h3 class="text-lg font-medium">
-          frogogo <span class="years">2018–2022</span>
+          frogogo <span class="years">2018–current</span>
         </h3>
         <p class="mb-2 text-sm text-gray-700">
           CTO
@@ -59,7 +59,7 @@
           CTO, full-stack developer
         </p>
         <p>
-          I joined YouModels as a full-stack developer. My responsibilities included: building a search engine, working on UI, SEO optimization, upgrading the app to latest technology. YouModels.com is an online platform for booking and managing models with agency contracts.
+          I joined YouModels as a full-stack developer. My responsibilities included: building a search engine, working on UI, SEO optimization, upgrading the app to latest technology. YouModels is an online platform for booking and managing models with agency contracts.
         </p>
       </div>
 
@@ -71,7 +71,7 @@
           CTO, co-founder
         </p>
         <p>
-          Chisto brought on-demand laundry to Russian customers. I started Chisto in 2016 along with my co-founder. I designed the architecture of the app, developed the web interface and managed a team of 2 mobile developers.
+          I started Chisto in 2016 along with my co-founder. I designed the architecture of the app, developed the web interface and managed a team of 2 mobile developers. Chisto brought on-demand laundry to Russian customers.
         </p>
       </div>
 
