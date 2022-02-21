@@ -19,7 +19,9 @@
         <h3 class="text-lg font-medium">
           frogogo <span class="years">2018–2022</span>
         </h3>
-        <a href="https://frogogo.ru">link</a>
+        <p class="mb-1 text-sm text-gray-700">
+          CTO
+        </p>
         <p>
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis dignissimos, debitis inventore ea itaque quos fuga.
         </p>
@@ -27,8 +29,23 @@
 
       <div class="mb-4">
         <h3 class="text-lg font-medium">
-          chisto <span class="years">2018</span>
+          YouModels <span class="years">2017–2018</span>
         </h3>
+        <p class="mb-1 text-sm text-gray-700">
+          CTO, full-stack developer
+        </p>
+        <p>
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis dignissimos, debitis inventore ea itaque quos fuga.
+        </p>
+      </div>
+
+      <div class="mb-4">
+        <h3 class="text-lg font-medium">
+          chisto <span class="years">2017</span>
+        </h3>
+        <p class="mb-1 text-sm text-gray-700">
+          CTO, co-founder
+        </p>
         <p>
           I started Chisto in 2016 along with my co-founder. We had a team of 2 mobile developers. Chisto brought on-demand laundry to Russian customers.
         </p>
@@ -36,8 +53,11 @@
 
       <div class="mb-4">
         <h3 class="text-lg font-medium">
-          Binary Blitz <span class="years">2018–2022</span>
+          Binary Blitz <span class="years">2015–2018</span>
         </h3>
+        <p class="mb-1 text-sm text-gray-700">
+          CTO, co-founder
+        </p>
         <p>
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis dignissimos, debitis inventore ea itaque quos fuga.
         </p>
