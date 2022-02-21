@@ -140,9 +140,6 @@
   </div>
 </template>
 
-<script>
-</script>
-
 <style>
 .years {
   @apply text-gray-500 font-normal text-base ml-1;
