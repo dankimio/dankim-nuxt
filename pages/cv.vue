@@ -41,7 +41,7 @@
 
       <div class="mb-5">
         <h3 class="text-lg font-medium">
-          frogogo <span class="years">2018–current</span>
+          frogogo <span class="years">2018–present</span>
         </h3>
         <p class="mb-2 text-sm text-gray-700">
           CTO
