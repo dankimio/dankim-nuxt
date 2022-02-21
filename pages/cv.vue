@@ -113,6 +113,25 @@
       </div> -->
 
       <h2>
+        Skills
+      </h2>
+
+      <p class="mb-2">
+        <span class="font-medium">Tech skills:</span>
+        Ruby, Ruby on Rails, Turbo, JavaScript, Tailwind CSS, web design, modern front-end development.
+      </p>
+
+      <p class="mb-2">
+        <span class="font-medium">Secondary:</span>
+        iOS development (Swift, SwiftUI), Vue.js, Nuxt, UI design (Sketch, Figma).
+      </p>
+
+      <p class="mb-2">
+        <span class="font-medium">Management:</span>
+        hiring, tech interviews, building and leading teams.
+      </p>
+
+      <h2>
         Languages
       </h2>
 
@@ -129,11 +148,11 @@
   @apply text-gray-500 font-normal text-base ml-1;
 }
 
-h1, h2, p {
-  @apply mb-4;
+p {
+  @apply mb-3;
 }
 
 h2 {
-  @apply text-3xl font-medium mt-4;
+  @apply mb-3 text-3xl font-medium mt-4;
 }
 </style>
