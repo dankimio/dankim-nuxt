@@ -39,51 +39,51 @@
         Experience
       </h2>
 
-      <div class="mb-4">
+      <div class="mb-5">
         <h3 class="text-lg font-medium">
           frogogo <span class="years">2018–2022</span>
         </h3>
-        <p class="mb-1 text-sm text-gray-700">
+        <p class="mb-2 text-sm text-gray-700">
           CTO
         </p>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis dignissimos, debitis inventore ea itaque quos fuga.
+          I lead a team of 5 developers and a designer. I joined the project at its inception as the CTO. I wrote the initial version of the web app and built its most crucial components: UI framework, mobile API, search, payments, CRM. I oversee tech hiring and architecture design. Frogogo is a loyalty platform for e-commerce.
         </p>
       </div>
 
-      <div class="mb-4">
+      <div class="mb-5">
         <h3 class="text-lg font-medium">
           YouModels <span class="years">2017–2018</span>
         </h3>
-        <p class="mb-1 text-sm text-gray-700">
+        <p class="mb-2 text-sm text-gray-700">
           CTO, full-stack developer
         </p>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis dignissimos, debitis inventore ea itaque quos fuga.
+          I joined YouModels as a full-stack developer. My responsibilities included: building a search engine, working on UI, SEO optimization, upgrading the app to latest technology. YouModels.com is an online platform for booking and managing models with agency contracts.
         </p>
       </div>
 
-      <div class="mb-4">
+      <div class="mb-5">
         <h3 class="text-lg font-medium">
-          chisto <span class="years">2017</span>
+          chisto <span class="years">2016</span>
         </h3>
-        <p class="mb-1 text-sm text-gray-700">
+        <p class="mb-2 text-sm text-gray-700">
           CTO, co-founder
         </p>
         <p>
-          I started Chisto in 2016 along with my co-founder. We had a team of 2 mobile developers. Chisto brought on-demand laundry to Russian customers.
+          Chisto brought on-demand laundry to Russian customers. I started Chisto in 2016 along with my co-founder. I designed the architecture of the app, developed the web interface and managed a team of 2 mobile developers.
         </p>
       </div>
 
-      <div class="mb-4">
+      <div class="mb-5">
         <h3 class="text-lg font-medium">
           Binary Blitz <span class="years">2015–2018</span>
         </h3>
-        <p class="mb-1 text-sm text-gray-700">
+        <p class="mb-2 text-sm text-gray-700">
           CTO, co-founder
         </p>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis dignissimos, debitis inventore ea itaque quos fuga.
+          I joined Binary Blitz in late 2014 as a back-end developer later to become a co-founder and the CTO. Initially I was responsible for building backends and APIs for mobile applications. Later I scaled our development department to 2 teams. Binary Blitz was an app development agency.
         </p>
       </div>
 
