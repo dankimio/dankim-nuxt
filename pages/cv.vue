@@ -4,11 +4,11 @@
 
     <div class="text-gray-900">
       <h1 class="text-4xl font-semibold mb-4">
-        Dan Kim — CV
+        Dan Kim
       </h1>
 
       <p class="mb-4">
-        I write software and help others make software with product in mind.
+        I write software and help others make software with product in mind. Currently based in Moscow, Russia.
       </p>
 
       <div class="border mr-2 px-2 py-1 text-sm inline-flex items-center">
