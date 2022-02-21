@@ -39,15 +39,6 @@
           Binary Blitz <span class="years">2018–2022</span>
         </h3>
         <p>
-          I'm trying to reimagine spaced repetition with Spacecards. A web app, that is currently a work in progress.
-        </p>
-      </div>
-
-      <div class="mb-4">
-        <h3 class="text-lg font-medium">
-          Binary Blitz <span class="years">2018–2022</span>
-        </h3>
-        <p>
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis dignissimos, debitis inventore ea itaque quos fuga.
         </p>
       </div>
@@ -66,6 +57,17 @@
         <p>Higher School of Economics</p>
 
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi a explicabo repellat rerum, architecto temporibus facere optio, consequuntur.</p>
+      </div>
+
+      <h2>Projects</h2>
+
+      <div class="mb-4">
+        <h3 class="text-lg font-medium">
+          spacecards <span class="years">2019</span>
+        </h3>
+        <p>
+          I'm trying to reimagine spaced repetition with Spacecards. A web app, that is currently a work in progress.
+        </p>
       </div>
 
       <h2>
