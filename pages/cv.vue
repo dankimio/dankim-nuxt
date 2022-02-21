@@ -114,6 +114,6 @@ h1, h2, p {
 }
 
 h2 {
-  @apply text-2xl font-medium;
+  @apply text-3xl font-medium;
 }
 </style>
