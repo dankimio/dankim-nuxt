@@ -1,8 +1,6 @@
 <template>
   <div class="container px-4 md:px-8 max-w-prose">
-    <Nav />
-
-    <div class="text-gray-900 mb-8">
+    <div class="text-gray-900 mb-4">
       <h1 class="text-4xl font-semibold mb-4">
         Dan Kim
       </h1>
