@@ -11,25 +11,25 @@
         I write software and help others make software with product in mind. Currently based in Moscow, Russia.
       </p>
 
-      <div class="border mr-2 px-2 py-1 text-sm inline-flex items-center">
+      <div class="border mr-2 px-2 py-1 text-sm inline-flex items-center mb-2 md:mb-0">
         <img src="/images/cv/globe.svg" alt="globe" class="inline-block w-3 h-3 mr-2 text-gray-300">
 
         <a href="https://dan.kim" target="_blank">dan.kim</a>
       </div>
 
-      <div class="border mr-2 px-2 py-1 text-sm inline-flex items-center">
+      <div class="border mr-2 px-2 py-1 text-sm inline-flex items-center mb-2 md:mb-0">
         <img src="/images/cv/phone.svg" alt="phone" class="inline-block w-3 h-3 mr-2 text-gray-300">
 
         <a href="tel:+79999636633">+7 999 963-66-33</a>
       </div>
 
-      <div class="border mr-2 px-2 py-1 text-sm inline-flex items-center">
+      <div class="border mr-2 px-2 py-1 text-sm inline-flex items-center mb-2 md:mb-0">
         <img src="/images/cv/mail.svg" alt="mail" class="inline-block w-3 h-3 mr-2 text-gray-300">
 
         <a href="mailto:itsdanya@gmail.com">itsdanya@gmail.com</a>
       </div>
 
-      <div class="border mr-2 px-2 py-1 text-sm inline-flex items-center">
+      <div class="border mr-2 px-2 py-1 text-sm inline-flex items-center mb-2 md:mb-0">
         <img src="/images/cv/send.svg" alt="telegram" class="inline-block w-3 h-3 mr-2 text-gray-300">
 
         <a href="https://t.me/dankimio" target="_blank">dankimio</a>
