@@ -92,6 +92,25 @@
       </div>
 
       <h2>
+        Skills
+      </h2>
+
+      <p class="mb-2">
+        <span class="font-medium">Tech skills:</span>
+        Ruby, Ruby on Rails, Turbo, JavaScript, Tailwind CSS, web design, modern front-end development.
+      </p>
+
+      <p class="mb-2">
+        <span class="font-medium">Secondary:</span>
+        iOS development (Swift, SwiftUI), Vue.js, Nuxt, UI design (Sketch, Figma).
+      </p>
+
+      <p class="mb-2">
+        <span class="font-medium">Management:</span>
+        hiring, tech interviews, building and leading teams.
+      </p>
+
+      <h2>
         Education
       </h2>
 
@@ -115,25 +134,6 @@
           I'm trying to reimagine spaced repetition with Spacecards. A web app, that is currently a work in progress.
         </p>
       </div> -->
-
-      <h2>
-        Skills
-      </h2>
-
-      <p class="mb-2">
-        <span class="font-medium">Tech skills:</span>
-        Ruby, Ruby on Rails, Turbo, JavaScript, Tailwind CSS, web design, modern front-end development.
-      </p>
-
-      <p class="mb-2">
-        <span class="font-medium">Secondary:</span>
-        iOS development (Swift, SwiftUI), Vue.js, Nuxt, UI design (Sketch, Figma).
-      </p>
-
-      <p class="mb-2">
-        <span class="font-medium">Management:</span>
-        hiring, tech interviews, building and leading teams.
-      </p>
 
       <h2>
         Languages
