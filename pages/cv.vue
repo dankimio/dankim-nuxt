@@ -6,7 +6,7 @@
       </h1>
 
       <p class="mb-4">
-        I write software and help others make software with product in mind. Currently based in Moscow, Russia.
+        I write software and help others make software with product in mind. Currently based in Europe.
       </p>
 
       <!-- <div class="border mr-2 px-2 py-1 text-sm inline-flex items-center mb-2">
