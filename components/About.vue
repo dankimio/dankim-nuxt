@@ -7,7 +7,7 @@
       I write software and design interfaces.
     </p>
     <p class="mb-6 md:mb-8 md:text-lg text-gray-800">
-      Currently based in Moscow, Russia
+      Currently based in Europe
     </p>
 
     <OutlinedButton
