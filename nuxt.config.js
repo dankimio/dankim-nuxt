@@ -20,17 +20,10 @@ export default defineNuxtConfig({
     ]
   },
 
-  // Global CSS: https://go.nuxtjs.dev/config-css
-  css: [
-  ],
-
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
     '~/plugins/lazysizes.js'
   ],
-
-  // Auto import components: https://go.nuxtjs.dev/config-components
-  components: true,
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
@@ -42,10 +35,6 @@ export default defineNuxtConfig({
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},
-
-  // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {
-  },
 
   tailwindcss: {
     purge: {
