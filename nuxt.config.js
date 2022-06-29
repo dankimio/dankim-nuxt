@@ -35,12 +35,4 @@ export default defineNuxtConfig({
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},
-
-  tailwindcss: {
-    purge: {
-      content: [
-        'content/**/*.md'
-      ]
-    }
-  }
 })
