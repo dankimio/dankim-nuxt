@@ -1,9 +1,11 @@
-export default {
+import { defineNuxtConfig } from 'nuxt'
+
+export default defineNuxtConfig({
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
   // Global page headers: https://go.nuxtjs.dev/config-head
-  head: {
+  meta: {
     title: 'Dan Kim',
     htmlAttrs: {
       lang: 'en'
@@ -58,4 +60,4 @@ export default {
       ]
     }
   }
-}
+})
