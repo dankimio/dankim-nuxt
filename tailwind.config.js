@@ -1,11 +1,8 @@
 module.exports = {
   // mode: 'jit',
-  purge: {
-    content: [
-      'content/**/*.md'
-    ]
-  },
-  darkMode: false, // or 'media' or 'class'
+  content: [
+    'content/**/*.md'
+  ],
   theme: {
     container: {},
     extend: {}
