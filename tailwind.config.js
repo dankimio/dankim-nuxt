@@ -2,12 +2,9 @@ module.exports = {
   content: [
     'content/**/*.md'
   ],
+  content: [],
   theme: {
-    container: {},
-    extend: {}
-  },
-  variants: {
-    extend: {}
+    extend: {},
   },
   plugins: [
     require('@tailwindcss/typography')
