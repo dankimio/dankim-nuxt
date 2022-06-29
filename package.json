@@ -1,14 +1,10 @@
 {
-  "name": "dankim-nuxt",
-  "version": "1.0.0",
   "private": true,
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
-    "preview": "nuxt preview",
-    "lint:js": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
-    "lint": "npm run lint:js"
+    "preview": "nuxt preview"
   },
   "dependencies": {
     "@nuxt/content": "^1.14.0",
