@@ -31,5 +31,7 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     // https://go.nuxtjs.dev/content
     '@nuxt/content'
-  ]
+  ],
+
+  compatibilityDate: '2025-01-25'
 })
